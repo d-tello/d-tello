@@ -18,9 +18,9 @@ You can send me a direct message on [LinkedIn](https://www.linkedin.com/in/david
 
 ## Stats
 
-[![Davide's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-tello)](https://github.com/d-tello/github-readme-stats)
+[![Davide's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-tello)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-tello)](https://github.com/d-tello/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-tello)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interests/Hobbies
 
