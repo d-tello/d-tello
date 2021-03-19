@@ -20,3 +20,4 @@ You can send me a direct message on [LinkedIn](https://www.linkedin.com/in/david
 
 - Taking long walks with my dog [Rei](https://www.instagram.com/lilshiba_rei/) 🐕
 - Cooking 🍝
+- Traveling 🏝
